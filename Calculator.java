@@ -27,7 +27,7 @@ public class Calculator {
 
         switch (operation) {
             case 1:
-                result = num1 + num2;
+                result = 20 + num2;
                 break;
             case 2:
                 result = num1 - num2;
